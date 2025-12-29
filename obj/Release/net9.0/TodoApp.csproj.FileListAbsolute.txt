@@ -199,8 +199,6 @@ C:\Users\haham\Desktop\TodoApp\bin\Release\net9.0\wwwroot\_framework\dotnet.runt
 C:\Users\haham\Desktop\TodoApp\bin\Release\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\Users\haham\Desktop\TodoApp\bin\Release\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Users\haham\Desktop\TodoApp\bin\Release\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
-C:\Users\haham\Desktop\TodoApp\bin\Release\net9.0\wwwroot\_framework\TodoApp.c6b32pl7fv.wasm
-C:\Users\haham\Desktop\TodoApp\bin\Release\net9.0\wwwroot\_framework\TodoApp.yrmhivdq56.pdb
 C:\Users\haham\Desktop\TodoApp\bin\Release\net9.0\wwwroot\_framework\blazor.boot.json
 C:\Users\haham\Desktop\TodoApp\bin\Release\net9.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\Users\haham\Desktop\TodoApp\bin\Release\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.tnyc7xpluy.wasm.gz
@@ -403,8 +401,6 @@ C:\Users\haham\Desktop\TodoApp\bin\Release\net9.0\wwwroot\_framework\dotnet.runt
 C:\Users\haham\Desktop\TodoApp\bin\Release\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\Users\haham\Desktop\TodoApp\bin\Release\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 C:\Users\haham\Desktop\TodoApp\bin\Release\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-C:\Users\haham\Desktop\TodoApp\bin\Release\net9.0\wwwroot\_framework\TodoApp.c6b32pl7fv.wasm.gz
-C:\Users\haham\Desktop\TodoApp\bin\Release\net9.0\wwwroot\_framework\TodoApp.yrmhivdq56.pdb.gz
 C:\Users\haham\Desktop\TodoApp\bin\Release\net9.0\wwwroot\_framework\blazor.boot.json.gz
 C:\Users\haham\Desktop\TodoApp\bin\Release\net9.0\TodoApp.staticwebassets.runtime.json
 C:\Users\haham\Desktop\TodoApp\bin\Release\net9.0\TodoApp.staticwebassets.endpoints.json
@@ -819,7 +815,6 @@ C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\scopedcss\projectbundle\TodoAp
 C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\blazor.build.boot-extension.json
 C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\blazor.boot.json
 C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\compressed\hf3fkoweby-8rbvw3on5j.gz
-C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\compressed\aayg8y5vz5-0bfrsgkae2.gz
 C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\compressed\lrv2t56o84-bqjiyaj88i.gz
 C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\compressed\grkxx30hlz-c2jlpeoesf.gz
 C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\compressed\q2s29hja4l-erw9l3u2r3.gz
@@ -1068,9 +1063,6 @@ C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\compressed\xnu702oy2z-zbl9qys3
 C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\compressed\v5j7ugmq7q-tjcz0u77k5.gz
 C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\compressed\g0dom81s0l-tptq2av103.gz
 C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\compressed\5243tastq0-lfu7j35m59.gz
-C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\compressed\8nnom43pwr-c6b32pl7fv.gz
-C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\compressed\39rkf4zu55-yrmhivdq56.gz
-C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\compressed\hzm50kpb46-7mlsfweahw.gz
 C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\staticwebassets.build.json
 C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\staticwebassets.build.json.cache
 C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\staticwebassets.development.json
@@ -1080,3 +1072,12 @@ C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\TodoApp.dll
 C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\refint\TodoApp.dll
 C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\TodoApp.pdb
 C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\ref\TodoApp.dll
+C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\TodoApp.sourcelink.json
+C:\Users\haham\Desktop\TodoApp\bin\Release\net9.0\wwwroot\_framework\TodoApp.euae0jvzfm.wasm
+C:\Users\haham\Desktop\TodoApp\bin\Release\net9.0\wwwroot\_framework\TodoApp.dhka97nvm0.pdb
+C:\Users\haham\Desktop\TodoApp\bin\Release\net9.0\wwwroot\_framework\TodoApp.euae0jvzfm.wasm.gz
+C:\Users\haham\Desktop\TodoApp\bin\Release\net9.0\wwwroot\_framework\TodoApp.dhka97nvm0.pdb.gz
+C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\compressed\aayg8y5vz5-o4hcxsht85.gz
+C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\compressed\8nnom43pwr-euae0jvzfm.gz
+C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\compressed\39rkf4zu55-dhka97nvm0.gz
+C:\Users\haham\Desktop\TodoApp\obj\Release\net9.0\compressed\hzm50kpb46-mo6xw97qy8.gz
