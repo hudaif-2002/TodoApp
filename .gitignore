@@ -1,6 +1,7 @@
 ﻿bin/
 obj/
 publish/
+test-publish/
 TodoApp-Deploy/
 TodoApp-Deploy.zip
 *.user
