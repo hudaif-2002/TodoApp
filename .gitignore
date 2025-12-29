@@ -1,0 +1,8 @@
+﻿bin/
+obj/
+publish/
+TodoApp-Deploy/
+TodoApp-Deploy.zip
+*.user
+*.suo
+.vs/
