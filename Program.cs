@@ -8,6 +8,9 @@ builder.RootComponents.Add<App>("#app");
 builder.RootComponents.Add<HeadOutlet>("head::after");
 
 builder.Services.AddScoped(sp => new HttpClient());
+builder.Services.AddScoped<AuthService>();
+builder.Services.AddSingleton<AuthStateService>();
 builder.Services.AddScoped<TodoApiService>();
 
 await builder.Build().RunAsync();
+
